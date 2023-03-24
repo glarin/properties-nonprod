@@ -1,0 +1,6 @@
+server:
+  port: 8082
+  servlet:
+    context-path: ${APP_PATH:/authenticate}
+api:
+  version: 1.0
