@@ -1,6 +1,6 @@
 server:
   port: 8082
   servlet:
-    context-path: ${APP_PATH:/authenticate}
+    context-path: ${APP_PATH:/identity-gateway}
 api:
   version: 1.0
